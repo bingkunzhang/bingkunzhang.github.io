@@ -3,6 +3,7 @@
 <img align="left" src="/Photo.jpg" width="50%">
 </left>
 
+# Example headings
                                     ## About Me
 
 I am a PhD candidate in Strategy at the HKU Business School, University of Hong Kong. 
