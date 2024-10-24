@@ -1,7 +1,4 @@
-#site settings
-title: Bingkun Zhang
-Email: bkzhang@connect.hku.hk
-Description: "PhD Candidate in Strategy Univeristy of Hong Kong (HKU)"
+
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
