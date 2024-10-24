@@ -1,4 +1,8 @@
-![GitHub图像](/Photo.jpg;max-width: 50%)
+![GitHub图像](/Photo.jpg)
+
+<center class ='img'>
+<img title="XX" src="/Photo.jpg" width="45%">
+</center>
 
 About Me
 
