@@ -1,4 +1,4 @@
-![GitHub图像](/Photo.png)
+![GitHub图像](/Photo.jpg)
 
 About Me
 
