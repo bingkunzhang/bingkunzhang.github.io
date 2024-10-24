@@ -1,6 +1,6 @@
 
 <left class ='img'>
-<img align="right" src="/Photo.jpg" width="40%">
+<img align="left" src="/Photo.jpg" width="50%">
 </left>
 
 About Me
