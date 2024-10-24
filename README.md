@@ -1,14 +1,10 @@
-![GitHub图像](/Photo.jpg =100x200)
+![GitHub图像](/Photo.jpg;max-width: 50%)
 
 About Me
 
-I am a PhD candidate in Strategy at the National University of Singapore, currently visiting the Management Division at Columbia Business School until August 2024. I received my bachelor's degree in Global Supply Chain Management from a tricontinental program co-hosted by the Chinese University of Hong Kong, Shenzhen, Copenhagen Business School, and the University of British Columbia.
+I am a PhD candidate in Strategy at the HKU Business School, University of Hong Kong. 
 
+My research interests include nonmarket strategy, sustainability, international business, and organization theory. In the area of sustainability, I explore how firms strategically respond to a veriety of institutional pressures regarding sustainability efforts, such as climate policy, green finance campaign, green credit policy, and physical climate change exposure. In the area of IB, I seek to understand how geopolitical risk and technology change influence MNC's supply chain involvement in the host country.
 
 I am currently on the 2024-2025 job market and you can find my CV here.
 
-
-My research interests include nonmarket strategy, global strategy, and entrepreneurship. My recent work examines how established and nascent firms navigate sociopolitical challenges, with a focus on geopolitical tensions and mass protests in emerging markets. I blend my research with impactful events and on-the-ground observations. I collected data from and interviewed a diverse array of organizations, from publicly listed companies to small restaurants and cosmetics entrepreneurs.
-
-
-Beyond research, I enjoy city walks, bus rides, and hiking in the mountains.
