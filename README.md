@@ -1,4 +1,4 @@
-![GitHub图像](/your-image.png)
+![GitHub图像](/Business_School.png)
 
 About Me
 
