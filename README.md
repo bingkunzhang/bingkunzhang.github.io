@@ -1,7 +1,6 @@
-
-
+#left 表示放在左边 width表示放大倍数
 <left class ='img'>
-<img title="XX" src="/Photo.jpg" width="45%">
+<img title="XX" src="/Photo.jpg" width="40%">
 </left>
 
 About Me
