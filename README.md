@@ -1,8 +1,8 @@
-![GitHub图像](/Photo.jpg)
 
-<center class ='img'>
+
+<left class ='img'>
 <img title="XX" src="/Photo.jpg" width="45%">
-</center>
+</left>
 
 About Me
 
