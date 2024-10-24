@@ -4,7 +4,7 @@
 </left>
 
  <span style="font-size:36px">About Me</span>
-                                   
+ # About ME
 
 I am a PhD candidate in Strategy at the HKU Business School, University of Hong Kong. 
 
