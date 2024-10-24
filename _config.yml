@@ -1,0 +1,4 @@
+title: bingkunzhang.github.io
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
