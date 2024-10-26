@@ -11,5 +11,5 @@ description: You can access my latest CV below.
 
 
 <div>
-  <a href="example_pdf.pdf"> example_pdf.pdf</a>
+  <a href="CV_Bingkun Zhang.pdf">CV_Bingkun Zhang.pdf</a>
 </div>
