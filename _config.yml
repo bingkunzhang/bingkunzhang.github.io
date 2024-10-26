@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Bingkun Zhang
+first_name: BINGKUN ZHANG
 middle_name: 
 last_name: 
 email: bkzhang@connect.hku.hk
@@ -15,7 +15,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Non-market strategy, Sustainability, International Business, and Organization Theory # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: HKUbusinessschool.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: HKU.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://bingkunzhang.github.io # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -87,7 +87,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: www.linkedin.com/in/bingkun-zhang-625252331
+linkedin_username: bingkun-zhang-625252331
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
