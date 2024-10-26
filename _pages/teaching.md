@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+Teaching Interests
+
+Strategic Management, International Business, Organizational Theory, and Research Methods
+
+
+
 The University of Hong Kong
 
 [1] Competitive Strategy (EMBA course), 2022-2024, Teaching assistant.
