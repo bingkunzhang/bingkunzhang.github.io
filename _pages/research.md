@@ -10,9 +10,6 @@ nav_order: 2
 <!-- _pages/research.md -->
 
 
-<p style="font-size:20px; font-weight:bold; font-style:italic;">
-这是一个同时加粗、斜体和设定为20像素的文本。
-
 
 <!-- Bibsearch Feature -->
 
