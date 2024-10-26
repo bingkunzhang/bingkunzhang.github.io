@@ -2,8 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'></a> PhD candidate, Strategy, HKU 
-Email: bkzhang@connect.hku.hk
+subtitle: <a href='#'></a> PhD candidate, Strategy, HKU, bkzhang@connect.hku.hk
 
 
 profile:
