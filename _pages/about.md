@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'></a>. PhD candidate, Strategy, HKU
+subtitle: <a href='#'></a> PhD candidate, Strategy, HKU
 
 
 profile:
@@ -10,9 +10,9 @@ profile:
   image: Photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>809, KKL</p>
-    <p>HKU, PokFuLam</p>
-    <p>Hong Kong</p>
+    <p> 809, KKL Building </p>
+    <p> HKU, PokFuLam </p>
+    <p> Hong Kong </p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
