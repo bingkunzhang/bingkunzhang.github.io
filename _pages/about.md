@@ -2,7 +2,8 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'></a> PhD candidate, Strategy, HKU
+subtitle: <a href='#'></a> PhD candidate, Strategy, HKU 
+Email: bkzhang@connect.hku.hk
 
 
 profile:
@@ -14,12 +15,6 @@ profile:
 
 
 
-
-
-
-
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
