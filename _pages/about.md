@@ -13,7 +13,8 @@ profile:
     <p> Room 809, KKL Building, HKU </p>
     <p> PokFuLam, Hong Kong </p>
     <p> Email: bkzhang@connect.hku.hk </p>
-    <p style="Lato:24px;">Room 809, KKL Building, HKU </p>
+    <p style="font-size:24px; font-style:Lato;">Room 809, KKL Building, HKU </p>
+
 
 
 
