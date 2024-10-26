@@ -10,9 +10,8 @@ profile:
   image: Photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Room 809, KKL Building, HKU </p>
-    <p> PokFuLam, Hong Kong </p>
-    <p> Email: bkzhang@connect.hku.hk </p>
+
+
 
 
 
