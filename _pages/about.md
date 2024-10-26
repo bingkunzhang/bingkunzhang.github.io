@@ -10,9 +10,14 @@ profile:
   image: Photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> 809, KKL Building </p>
-    <p> HKU, PokFuLam </p>
-    <p> Hong Kong </p>
+    <p> Room 809, KKL Building, HKU </p>
+    <p> PokFuLam, Hong Kong </p>
+    <p> Email: bkzhang@connect.hku.hk </p>
+    <p style="font-size:24px;">Room 809, KKL Building, HKU </p>
+
+
+
+
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
