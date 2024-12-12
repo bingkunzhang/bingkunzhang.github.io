@@ -16,6 +16,7 @@ profile:
 
 social: true # includes social icons at the bottom of the page
 ---
+Welcome to my personal website!
 
 I am a PhD candidate in Strategy at the HKU Business School, University of Hong Kong.
 
