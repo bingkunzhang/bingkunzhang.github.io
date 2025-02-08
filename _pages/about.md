@@ -18,9 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Welcome to my personal website!
 
-I am a PhD candidate in Strategy at the HKU Business School, University of Hong Kong.
+I am a PhD candidate in Strategy at the HKU Business School, University of Hong Kong. I will join the University of Melbourne, Faculty of Business and Economics as an Assistant Professor in July 2025.
 
-My research interests include nonmarket strategy, sustainability, international business, and organization theory. In the area of sustainability, I explore how firms strategically respond to a veriety of institutional pressures regarding sustainability efforts, such as climate policy, green finance campaign, green credit policy, and physical climate change exposure. In the area of IB, I seek to understand how geopolitical risk and technology change influence MNC's supply chain involvement in the host country.
-
-I am currently on the 2024-2025 job market.
+My research interests include nonmarket strategy, sustainability, international business, and organization theory. In the area of sustainability, I explore how firms strategically respond to a veriety of institutional pressures regarding sustainability efforts, such as climate policy, green finance campaign, green credit policy, and physical climate change exposure. In the area of IB, I seek to understand how geopolitical risk influences global supply chains.
 
