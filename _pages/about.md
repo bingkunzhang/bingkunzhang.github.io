@@ -7,7 +7,7 @@ subtitle: <a href='#'></a> Assistant Professor (Lecturer in Australia), Strategy
 
 profile:
   align: left
-  image: Photo.jpg
+  image: Photo_Chicago.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
