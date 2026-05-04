@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'></a> Assistant Professor (Lecturer in Australia), Strategy, Univeristy of Melbourne, bk.zhang@unimelb.edu.au
+subtitle: <a href='#'></a> Assistant Professor, Strategy, Univeristy of Melbourne, bk.zhang@unimelb.edu.au
 
 
 profile:
