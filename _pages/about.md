@@ -16,6 +16,48 @@ profile:
 
 social: true # includes social icons at the bottom of the page
 ---
+<style>
+/* 首页姓名大标题 */
+.post-header .post-title {
+  font-size: 2.5rem !important;
+}
+
+/* 姓名下面的职位和邮箱 */
+.post-header .desc {
+  font-size: 1.05rem !important;
+  line-height: 1.6;
+}
+
+/* 首页个人介绍正文 */
+.post article .clearfix p {
+  font-size: 1.1rem !important;
+  line-height: 1.75;
+}
+
+/* Latest news 的内容 */
+.post article > p {
+  font-size: 1.05rem !important;
+  line-height: 1.7;
+}
+
+/* Latest news 标题 */
+.post article h2 {
+  font-size: 1.7rem !important;
+}
+
+/* 手机端稍微缩小 */
+@media (max-width: 576px) {
+  .post-header .post-title {
+    font-size: 2rem !important;
+  }
+
+  .post-header .desc,
+  .post article .clearfix p,
+  .post article > p {
+    font-size: 1rem !important;
+  }
+}
+</style>
 Hello! Welcome to my personal website!
 
 I am an Assistant Professor in Strategy at Faculty of Business and Economics, The University of Melbourne. I got my PhD in strategic management from the HKU Business School, University of Hong Kong.
