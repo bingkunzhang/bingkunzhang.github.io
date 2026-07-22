@@ -12,6 +12,10 @@ Teaching Interests
 Strategic Management, International Business, Organizational Theory, and Research Methods
 
 
+University of Melbourne
+[1] Global Corporate Governance (Postgraduate),2026, Course Coordinator and Lecturer
+
+
 
 The University of Hong Kong
 
