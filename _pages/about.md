@@ -54,7 +54,7 @@ social: true # includes social icons at the bottom of the page
   .post-header .desc,
   .post article .clearfix p,
   .post article > p {
-    font-size: 1rem !important;
+    font-size: 1.05rem !important;
   }
 }
 </style>
