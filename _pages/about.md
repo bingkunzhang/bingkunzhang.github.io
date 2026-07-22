@@ -30,8 +30,8 @@ social: true # includes social icons at the bottom of the page
 
 /* 首页个人介绍正文 */
 .post article .clearfix p {
-  font-size: 1.1rem !important;
-  line-height: 1.75;
+  font-size: 1.05rem !important;
+  line-height: 1.6;
 }
 
 /* Latest news 的内容 */
